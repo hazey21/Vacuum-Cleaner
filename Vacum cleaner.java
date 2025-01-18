@@ -1,4 +1,4 @@
-public class myClass{ 
+public class Vacuumcleaner{ 
     public static void main(String args[])
     {
         char current_location = args[0].charAt(0); 
